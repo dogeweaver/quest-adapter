@@ -5,7 +5,8 @@ A proxy based HTTP requests utility
 `npm install --save quest-adapter`
 
 ## Examples
-**quest-adapter** is a flexible HTTP lib, which utilises adapters of the form:
+**quest-adapter** is a flexible HTTP lib, which utilises adapters of the form
+
 ```ts
 interface Options {
   uri: string,
